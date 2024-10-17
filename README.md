@@ -7,10 +7,6 @@ Welcome to **Learn Basic Python**! This repository is designed to help beginners
 - [Introduction](#introduction)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Course Structure](#course-structure)
-- [How to Use](#how-to-use)
-- [Resources](#resources)
-- [Contributing](#contributing)
 
 ## Introduction
 
